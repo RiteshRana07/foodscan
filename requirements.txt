@@ -1,0 +1,7 @@
+streamlit
+requests
+numpy
+pillow
+google-generativeai
+opencv-python-headless
+pyzbar
